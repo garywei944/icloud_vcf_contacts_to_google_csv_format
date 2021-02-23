@@ -150,10 +150,14 @@ def vcf_to_csv(path='contacts.vcf'):
             elif len(entries) == 1:
                 pass
             else:
-                # logging.debug(entries)
+                # Print entries that are not processed
+                logging.debug(entries)
                 pass
     result.to_csv('converted_contact.csv', index=False)
 
 
 if __name__ == '__main__':
-    vcf_to_csv()
+    if len(sys.argv) > 1:
+        vcf_to_csv(sys.argv[1])
+    else:
+        vcf_to_csv('contacts.vcf')
