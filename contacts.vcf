@@ -1,0 +1,36 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 12.1.2//EN
+N:;Antonion;;;
+FN:Antonion
+TEL;type=CELL;type=VOICE;type=pref:(413) 549-0077
+REV:2018-12-21T22:05:28Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 9.2.1//EN
+N:Wang;Jimmy;;;
+FN:Jimmy Aun
+item1.TEL;type=pref:+1 (413)210-1156
+NOTE:Some notes 1
+REV:2016-02-07T02:44:03Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 9.3.2//EN
+N:Zhang;San;;;
+FN:San Zhang
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:801-3257622
+TEL;type=WORK;type=CELL;type=VOICE:+8613211265236
+NOTE:Some notes 2
+REV:2016-06-21T02:14:01Z
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 13.3//EN
+N:;Benjamin;Ben;;
+FN:Benjamin
+TEL;type=HOME;type=VOICE;type=pref:+86 176-1025-4563
+TEL;type=IPHONE;type=CELL;type=VOICE:010-67255922
+REV:2020-01-20T21:19:14Z
+END:VCARD
